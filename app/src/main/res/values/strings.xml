@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">ExploraCerca</string>
+    <string name="iniciaSesion">Inicia Sesión</string>
+    <string name="crearCuenta">Crear una cuenta</string>
+    <string name="registrate">Registrate</string>
+    <string name="email">Email</string>
+    <string name="clave">Contraseña</string>
+    <string name="siCuenta">¿Ya tienes cuenta?</string>
+    <string name="noCuenta">¿No tienes cuenta?</string>
+    <string name="Restaurantes">Restaurantes</string>
+    <string name="Realizar_una_reserva">Realizar una reserva</string>
+    <string name="volver">Volver</string>
+
+
+    <string name="DiverXO">DiverXO</string>
+    <string name="Coque">Coque</string>
+    <string name="Santceloni">Santceloni</string>
+    <string name="DSTAgE">DSTAgE</string>
+    <string name="Ramón_Freixa_Madrid">Ramón Freixa Madrid</string>
+    <string name="La_Terraza_del_Casino">La Terraza del Casino</string>
+    <string name="Álbora">Álbora</string>
+    <string name="Sacha">Sacha</string>
+    <string name="Punto_MX">Punto MX</string>
+    <string name="Ten_Con_Ten">Ten Con Ten</string>
+    <string name="Kabuki_Wellington">Kabuki Wellington</string>
+    <string name="El_Club_Allard">El Club Allard</string>
+    <string name="El_Celler_de_Can_Roca">El Celler de Can Roca</string>
+    <string name="StreetXO">StreetXO</string>
+    <string name="ABarra">A\'Barra</string>
+    <string name="Gaytán">Gaytán</string>
+    <string name="El_Paraguas">El Paraguas</string>
+    <string name="La_Tasquita_de_Enfrente">La Tasquita de Enfrente</string>
+    <string name="El_Qüenco_de_Pepa">El Qüenco de Pepa</string>
+    <string name="Viridiana">Viridiana</string>
+
+
+    <string name="DiverXO_D">Dirigido por el reconocido chef David Muñoz, DiverXO es una experiencia culinaria que desafía los límites de la imaginación. Con tres estrellas Michelin, este restaurante ofrece una fusión única de sabores asiáticos y españoles en un ambiente vibrante y teatral. Cada plato es una obra maestra creativa que sorprende y deleita a los comensales, convirtiendo la cena en una experiencia inolvidable.</string>
+    <string name="Coque_D">Liderado por los hermanos Sandoval, Coque es un templo gastronómico que combina la tradición culinaria con la innovación. Ubicado en un elegante edificio en Humanes de Madrid, este restaurante con dos estrellas Michelin ofrece una experiencia gastronómica única, donde los ingredientes locales y de temporada son transformados en platos creativos y deliciosos. Además de su exquisita comida, Coque ofrece un servicio impecable y un ambiente acogedor que invita a los comensales a disfrutar de una velada inolvidable.</string>
+    <string name="Santceloni_D">Situado en el prestigioso hotel Hesperia Madrid, Santceloni es un referente de la alta cocina española. Con dos estrellas Michelin, este restaurante combina la elegancia clásica con una cocina innovadora y refinada. El chef Óscar Velasco crea platos exquisitos que resaltan los sabores y productos de temporada, ofreciendo una experiencia gastronómica excepcional que cautiva los sentidos.</string>
+    <string name="DSTAgE_D">Bajo la dirección del chef Diego Guerrero, DSTAgE es un espacio gastronómico vanguardista que desafía las normas tradicionales de la cocina. Con una estrella Michelin, este restaurante ofrece una experiencia culinaria única donde la creatividad y la técnica se combinan para crear platos sorprendentes y llenos de sabor. Cada visita a DSTAgE es una aventura culinaria que estimula los sentidos y deja una impresión duradera en los comensales.</string>
+    <string name="Ramón_Freixa_Madrid_D">Con dos estrellas Michelin, Ramón Freixa Madrid es una joya culinaria que ofrece una cocina de autor sofisticada y llena de creatividad. El chef Ramón Freixa combina técnicas culinarias innovadoras con ingredientes de alta calidad para crear platos que sorprenden y deleitan a los comensales. Ubicado en el hotel Unico Madrid, este restaurante ofrece un ambiente elegante y acogedor donde los comensales pueden disfrutar de una experiencia gastronómica inolvidable.</string>
+    <string name="La_Terraza_del_Casino_D">Dirigido por el reconocido chef Paco Roncero, La Terraza del Casino es un lugar emblemático en el corazón de Madrid. Con dos estrellas Michelin, este restaurante ofrece una experiencia gastronómica excepcional que combina la tradición culinaria española con la innovación y la creatividad. Situado en el Casino de Madrid, este restaurante ofrece un ambiente elegante y sofisticado donde los comensales pueden disfrutar de platos exquisitos y una atención impecable.</string>
+    <string name="Álbora_D">Con una cocina de mercado creativa y de calidad, Álbora es un lugar destacado en la escena gastronómica de Madrid. El chef David García crea platos que resaltan los sabores frescos y auténticos de los ingredientes locales, ofreciendo una experiencia culinaria auténtica y deliciosa. Situado en el barrio de Salamanca, este restaurante ofrece un ambiente acogedor y moderno donde los comensales pueden disfrutar de una comida inolvidable.</string>
+    <string name="Sacha_D">Con una larga tradición gastronómica, ofrece platos clásicos con un toque contemporáneo.Con una larga tradición gastronómica, Sacha es un restaurante clásico en Madrid que ofrece una cocina de autor sofisticada y llena de sabor. El chef Sacha Hormaechea crea platos que combinan técnicas culinarias tradicionales con un toque contemporáneo, ofreciendo una experiencia gastronómica única y memorable. Situado en el barrio de Chamberí, este restaurante ofrece un ambiente acogedor y familiar donde los comensales pueden disfrutar de una comida excepcional.</string>
+    <string name="Punto_MX_D">Considerado uno de los mejores restaurantes de cocina mexicana fuera de México, Punto MX ofrece una experiencia culinaria auténtica y deliciosa. El chef Roberto Ruiz crea platos que resaltan los sabores y la diversidad de la cocina mexicana, ofreciendo una experiencia gastronómica única y emocionante. Situado en el barrio de Chamberí, este restaurante ofrece un ambiente moderno y acogedor donde los comensales pueden disfrutar de una comida inolvidable.</string>
+    <string name="Ten_Con_Ten_D">Con una cocina de autor creativa y un ambiente moderno y acogedor, Ten Con Ten es un lugar destacado en la escena gastronómica de Madrid. El chef Nino Redruello crea platos que combinan ingredientes frescos y de temporada con técnicas culinarias innovadoras, ofreciendo una experiencia gastronómica única y deliciosa. Situado en el barrio de Salamanca, este restaurante ofrece un ambiente elegante y sofisticado donde los comensales pueden disfrutar de una comida excepcional.</string>
+    <string name="Kabuki_Wellington_D">Con una estrella Michelin, Kabuki Wellington es un referente de la cocina japonesa en Madrid. Ofrece una fusión creativa de sabores japoneses y mediterráneos, con platos exquisitamente elaborados y presentados. El ambiente es elegante y sofisticado, perfecto para disfrutar de una experiencia gastronómica memorable.</string>
+    <string name="El_Club_Allard_D">Ubicado en un elegante palacete del siglo XIX, El Club Allard es un restaurante de alta cocina con dos estrellas Michelin. Dirigido por la chef María Marte, ofrece una experiencia gastronómica única con platos creativos que combinan técnicas modernas con ingredientes tradicionales. El ambiente es refinado y acogedor, ideal para ocasiones especiales.</string>
+    <string name="El_Celler_de_Can_Roca_D">Aunque se encuentra en Girona, Cataluña, El Celler de Can Roca es un restaurante reconocido internacionalmente y merece ser mencionado. Con tres estrellas Michelin, es famoso por su cocina innovadora y por ofrecer una experiencia gastronómica emocionante y memorable.</string>
+    <string name="StreetXO_D">Con la firma del chef David Muñoz, StreetXO ofrece una experiencia gastronómica única y llena de energía. Este restaurante fusiona la cocina asiática con influencias internacionales en un ambiente moderno y animado. Los platos son audaces y llenos de sabor, con una presentación espectacular que refleja la creatividad del chef.</string>
+    <string name="ABarra_D">Este restaurante ofrece una experiencia gastronómica excepcional centrada en una cocina de autor moderna y sofisticada. Con una estrella Michelin, A\'Barra se distingue por su creatividad en la presentación de platos y por su atención al detalle en cada aspecto de la comida y el servicio.</string>
+    <string name="Gaytán_D">Dirigido por el chef Javier Aranda, Gaytán es un restaurante que combina la tradición culinaria española con toques de innovación y creatividad. Con una estrella Michelin, ofrece una experiencia gastronómica refinada y elegante en un ambiente acogedor y contemporáneo.</string>
+    <string name="El_Paraguas_D"> Este restaurante es conocido por su cocina española contemporánea y por su ambiente animado y acogedor. Situado en el barrio de Salamanca, El Paraguas ofrece una amplia variedad de platos deliciosos, desde tapas tradicionales hasta creaciones modernas, en un ambiente vibrante y lleno de vida.</string>
+    <string name="La_Tasquita_de_Enfrente_D">Con una cocina centrada en los productos de temporada y en la tradición culinaria española, La Tasquita de Enfrente ofrece una experiencia gastronómica auténtica y deliciosa. Este restaurante es conocido por su ambiente informal y su excelente selección de vinos, lo que lo convierte en un lugar popular entre los amantes de la buena comida y el buen vino.</string>
+    <string name="El_Qüenco_de_Pepa_D">Este restaurante ofrece una experiencia culinaria única centrada en la cocina tradicional española con un toque moderno. Con una decoración rústica y acogedora, El Qüenco de Pepa es el lugar perfecto para disfrutar de platos caseros y sabrosos elaborados con ingredientes frescos y de calidad.</string>
+    <string name="Viridiana_D">Fundado por el chef Abraham García, Viridiana es un restaurante emblemático en Madrid que ofrece una cocina creativa y llena de sabor. Con una decoración única y un ambiente cálido y acogedor, este restaurante es conocido por su innovación culinaria y por su amplia variedad de platos deliciosos que destacan los sabores auténticos de la cocina española.</string>
+
+
+    <plurals name="mesas">
+        <item quantity="one">1 Mesa</item>
+        <item quantity="other">%1$d Mesas</item>
+    </plurals>
+
+    <string name="si">Sí</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="confirmarRes">Confirmar reserva</string>
+    <string name="preguntaConfirmarRes">¿Quieres confirmar tu reserva al restaurante?</string>
+</resources>

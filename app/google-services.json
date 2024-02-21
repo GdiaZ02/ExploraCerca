@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "442602214588",
+    "project_id": "exploracerca",
+    "storage_bucket": "exploracerca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442602214588:android:0f3aaa43d127c815f76cb9",
+        "android_client_info": {
+          "package_name": "com.example.exploracerca"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLkypAlf4wBGJKDLHJowA7VAhBRGcVtT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
